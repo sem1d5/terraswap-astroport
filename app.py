@@ -2,6 +2,12 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+primaryColor="#F63366"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F0F2F6"
+textColor="#262730"
+font="sans serif"
+
 st.set_page_config(page_title = "Astroport vs Terraswap",
 					page_icon = ":bar_chart:",
 					layout =  "wide")
