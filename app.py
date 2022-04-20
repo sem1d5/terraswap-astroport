@@ -17,7 +17,6 @@ df = pd.read_excel("dex_apr2022.xlsx",0)
 	#nrows= 218
 	#)
 
-#print(df) # to run this, go to cd /users/sam/desktop/dex_april_2022, then python3 app.py
 
 #st.dataframe(df) # this shows the table list 
 
